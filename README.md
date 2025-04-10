@@ -21,5 +21,3 @@ This is a simple Python project that allows users to:
 
 To run the program:
 
-```bash
-python calorie_tracker.py
